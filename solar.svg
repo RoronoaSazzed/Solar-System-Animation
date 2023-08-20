@@ -1,0 +1,402 @@
+<svg width="100%" min-height="0" viewBox="0 0 6093 6061" fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Solar SVG">
+        <!-- <rect width="6093" height="6061" fill="#141416" /> -->
+        <rect id="center-logo" x="2796.5" y="2755.63" width="500" height="549.756" fill="url(#pattern0)" />
+        <circle id="o-1" cx="3046.5" cy="3030.5" r="626" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint0_linear_3_29)" stroke-width="8" />
+        <circle id="o-2" cx="3046.5" cy="3030.5" r="878" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint1_linear_3_29)" stroke-width="8" />
+        <circle id="o-3" cx="3046.5" cy="3030.5" r="1194" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint2_linear_3_29)" stroke-width="8" />
+        <circle id="o-4" cx="3046.5" cy="3030.5" r="1546" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint3_linear_3_29)" stroke-width="8" />
+        <circle id="o-5" cx="3046.5" cy="3030.5" r="1954" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint4_linear_3_29)" stroke-width="8" />
+        <circle id="o-6" cx="3046.5" cy="3030.5" r="2258" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint5_linear_3_29)" stroke-width="8" />
+        <circle id="o-7" cx="3046.5" cy="3030.5" r="2530" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint6_linear_3_29)" stroke-width="8" />
+        <circle id="o-8" cx="3046.5" cy="3030.5" r="2866" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint7_linear_3_29)" stroke-width="8" />
+        <g id="route-1">
+            <circle id="orbit-1" cx="3046.5" cy="3030.5" r="626" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint0_linear_3_29)" stroke-width="8" />
+            <rect id="planet-1" x="2987.5" y="2345.5" width="118" height="118" fill="url(#pattern1)" />
+        </g>
+        <g id="route-2">
+            <circle id="orbit-2" cx="3046.5" cy="3030.5" r="878" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint1_linear_3_29)" stroke-width="8" />
+            <rect id="planet-2" x="2958.5" y="2064.5" width="176" height="176" fill="url(#pattern2)" />
+        </g>
+        <g id="route-3">
+            <circle id="orbit-3" cx="3046.5" cy="3030.5" r="1194" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint2_linear_3_29)" stroke-width="8" />
+            <rect id="planet-3" x="2782.51" y="1572.5" width="527" height="527" fill="url(#pattern3)" />
+        </g>
+        <g id="route-4">
+            <circle id="orbit-4" cx="3046.5" cy="3030.5" r="1546" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint3_linear_3_29)" stroke-width="8" />
+            <rect id="planet-4" x="2709.01" y="1147" width="675" height="675" fill="url(#pattern4)" />
+        </g>
+        <g id="route-5">
+            <circle id="orbit-5" cx="3046.5" cy="3030.5" r="1954" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint4_linear_3_29)" stroke-width="8" />
+            <rect id="planet-5" x="2755.5" y="784.5" width="583" height="583" fill="url(#pattern5)" />
+        </g>
+        <g id="route-6">
+            <circle id="orbit-6" cx="3046.5" cy="3030.5" r="2258" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint5_linear_3_29)" stroke-width="8" />
+            <rect id="planet-6" x="2826.5" y="551.5" width="441" height="441" fill="url(#pattern6)" />
+        </g>
+        <g id="route-7">
+            <circle id="orbit-7" cx="3046.5" cy="3030.5" r="2530" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint6_linear_3_29)" stroke-width="8" />
+            <rect id="planet-7" x="2812.44" y="372.702" width="449" height="255" fill="url(#pattern7)" />
+        </g>
+        <g id="route-8">
+            <circle id="orbit-8" cx="3046.5" cy="3030.5" r="2866" transform="rotate(90 3046.5 3030.5)" stroke="url(#paint7_linear_3_29)" stroke-width="8" />
+            <rect id="planet-8" x="2965.5" y="97.5" width="134" height="134" fill="url(#pattern8)" />
+        </g>
+    </g>
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0_3_29" transform="scale(0.000444247 0.00040404)" />
+        </pattern>
+        <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1_3_29" transform="scale(0.00125)" />
+        </pattern>
+        <pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image2_3_29" transform="scale(0.00124844)" />
+        </pattern>
+        <pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image3_3_29" transform="scale(0.00189753)" />
+        </pattern>
+        <pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image4_3_29" transform="scale(0.00148148)" />
+        </pattern>
+        <pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image5_3_29" transform="scale(0.00171527)" />
+        </pattern>
+        <pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image6_3_29" transform="scale(0.00226757)" />
+        </pattern>
+        <pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image7_3_29" transform="scale(0.00222717 0.00392157)" />
+        </pattern>
+        <pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image8_3_29" transform="scale(0.00125)" />
+        </pattern>
+        <linearGradient id="paint0_linear_3_29" x1="3046.5" y1="2404.5" x2="3046.5" y2="3656.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <linearGradient id="paint1_linear_3_29" x1="3046.5" y1="2152.5" x2="3046.5" y2="3908.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <linearGradient id="paint2_linear_3_29" x1="3046.5" y1="1836.5" x2="3046.5" y2="4224.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <linearGradient id="paint3_linear_3_29" x1="3046.5" y1="1484.5" x2="3046.5" y2="4576.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <linearGradient id="paint4_linear_3_29" x1="3046.5" y1="1076.5" x2="3046.5" y2="4984.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <linearGradient id="paint5_linear_3_29" x1="3046.5" y1="772.5" x2="3046.5" y2="5288.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <linearGradient id="paint6_linear_3_29" x1="3046.5" y1="500.5" x2="3046.5" y2="5560.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <linearGradient id="paint7_linear_3_29" x1="3046.5" y1="164.5" x2="3046.5" y2="5896.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#808080" />
+            <stop offset="0.505208" stop-color="#808080" stop-opacity="0" />
+            <stop offset="1" stop-color="#808080" />
+        </linearGradient>
+        <image id="image0_3_29" data-name="P_Logo.png" width="2251" height="2475" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/center-logo.png" />
+        <image id="image1_3_29" data-name="planet-1.png" width="800" height="800" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-1.png" />
+        <image id="image2_3_29" data-name="planet-2.png" width="801" height="801" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-2.png" />
+        <image id="image3_3_29" data-name="planet-3.png" width="527" height="527" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-3.png" />
+        <image id="image4_3_29" data-name="planet-4.png" width="675" height="675" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-4.png" />
+        <image id="image5_3_29" data-name="planet-5.png" width="583" height="583" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-5.png" />
+        <image id="image6_3_29" data-name="planet-6.png" width="441" height="441" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-6.png" />
+        <image id="image7_3_29" data-name="planet-7.png" width="449" height="255" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-7.png" />
+        <image id="image8_3_29" data-name="planet-8.png" width="800" height="800" xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-8.png" />
+
+        <style>
+#orbit-1,
+      #orbit-2,
+      #orbit-3,
+      #orbit-4,
+      #orbit-5,
+      #orbit-6,
+      #orbit-7,
+      #orbit-8,
+      #orbit-9 {
+        stroke: transparent;
+      }
+
+      #o-1,
+      #o-2,
+      #o-3,
+      #o-4,
+      #o-5,
+      #o-6,
+      #o-7,
+      #o-8,
+      #o-9 {
+        stroke-opacity: 0.45;
+      }
+
+      #route-1 {
+        transform-origin: center;
+        animation: rotate__route1 35s linear infinite;
+      }
+
+      @keyframes rotate__route1 {
+        0% {
+          transform: rotate(-35deg);
+        }
+
+        100% {
+          transform: rotate(325deg);
+        }
+      }
+
+      #route-2 {
+        transform-origin: center;
+        animation: rotate__route2 50s linear infinite;
+      }
+
+      @keyframes rotate__route2 {
+        0% {
+          transform: rotate(-50deg);
+        }
+
+        100% {
+          transform: rotate(310deg);
+        }
+      }
+
+      #route-3 {
+        transform-origin: center;
+
+        animation: rotate__route3 38s linear infinite;
+      }
+
+      @keyframes rotate__route3 {
+        0% {
+          transform: rotate(-38deg);
+        }
+
+        100% {
+          transform: rotate(322deg);
+        }
+      }
+
+      #route-4 {
+        transform-origin: center;
+
+        animation: rotate__route4 74s linear infinite;
+      }
+
+      @keyframes rotate__route4 {
+        0% {
+          transform: rotate(-74deg);
+        }
+
+        100% {
+          transform: rotate(286deg);
+        }
+      }
+
+      #route-5 {
+        transform-origin: center;
+
+        animation: rotate__route5 56s linear infinite;
+      }
+
+      @keyframes rotate__route5 {
+        0% {
+          transform: rotate(-56deg);
+        }
+
+        100% {
+          transform: rotate(304deg);
+        }
+      }
+
+      #route-6 {
+        transform-origin: center;
+
+        animation: rotate__route6 40s linear infinite;
+      }
+
+      @keyframes rotate__route6 {
+        0% {
+          transform: rotate(-40deg);
+        }
+
+        100% {
+          transform: rotate(320deg);
+        }
+      }
+
+      #route-7 {
+        transform-origin: center;
+
+        animation: rotate__route7 70s linear infinite;
+      }
+
+      @keyframes rotate__route7 {
+        0% {
+          transform: rotate(-70deg);
+        }
+
+        100% {
+          transform: rotate(290deg);
+        }
+      }
+
+      #route-8 {
+        transform-origin: center;
+
+        animation: rotate__route8 50s linear infinite;
+      }
+
+      @keyframes rotate__route8 {
+        0% {
+          transform: rotate(-50deg);
+        }
+
+        100% {
+          transform: rotate(310deg);
+        }
+      }
+
+      #planet-1,
+      #planet-2,
+      #planet-3,
+      #planet-4,
+      #planet-5,
+      #planet-6,
+      #planet-7,
+      #planet-8 {
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+
+      #planet-1 {
+        animation: reverse__planet1 35s linear infinite;
+      }
+
+      @keyframes reverse__planet1 {
+        0% {
+          transform: rotate(35deg);
+        }
+
+        100% {
+          transform: rotate(-325deg);
+        }
+      }
+
+      #planet-2 {
+        animation: reverse__planet2 50s linear infinite;
+      }
+
+      @keyframes reverse__planet2 {
+        0% {
+          transform: rotate(50deg);
+        }
+
+        100% {
+          transform: rotate(-310deg);
+        }
+      }
+
+      #planet-3 {
+        animation: reverse__planet3 38s linear infinite;
+      }
+
+      @keyframes reverse__planet3 {
+        0% {
+          transform: rotate(38deg);
+        }
+
+        100% {
+          transform: rotate(-322deg);
+        }
+      }
+
+      #planet-4 {
+        animation: reverse__planet4 74s linear infinite;
+      }
+
+      @keyframes reverse__planet4 {
+        0% {
+          transform: rotate(74deg);
+        }
+
+        100% {
+          transform: rotate(-286deg);
+        }
+      }
+
+      #planet-5 {
+        animation: reverse__planet5 56s linear infinite;
+      }
+
+      @keyframes reverse__planet5 {
+        0% {
+          transform: rotate(56deg);
+        }
+
+        100% {
+          transform: rotate(-304deg);
+        }
+      }
+
+      #planet-6 {
+        animation: reverse__planet6 40s linear infinite;
+      }
+
+      @keyframes reverse__planet6 {
+        0% {
+          transform: rotate(40deg);
+        }
+
+        100% {
+          transform: rotate(-320deg);
+        }
+      }
+
+      #planet-7 {
+        animation: reverse__planet7 70s linear infinite;
+      }
+
+      @keyframes reverse__planet7 {
+        0% {
+          transform: rotate(70deg);
+        }
+
+        100% {
+          transform: rotate(-290deg);
+        }
+      }
+
+      #planet-8 {
+        animation: reverse__planet8 50s linear infinite;
+      }
+
+      @keyframes reverse__planet8 {
+        0% {
+          transform: rotate(50deg);
+        }
+
+        100% {
+          transform: rotate(-310deg);
+        }
+      }
+        </style>
+    </defs>
+</svg>
