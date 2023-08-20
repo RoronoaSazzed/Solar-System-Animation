@@ -1,0 +1,82 @@
+1. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-1.png
+
+2. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-2.png
+
+3. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-3.png
+
+4. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-4.png
+
+5. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-5.png
+
+6. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-6.png
+
+7. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-7.png
+
+8. http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-8.png
+
+Center Logo: http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/center-logo.png
+
+
+<image
+              id="image0_3_29"
+              data-name="P_Logo.png"
+              width="2251"
+              height="2475"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/center-logo.png"
+            />
+            <image
+              id="image1_3_29"
+              data-name="planet-1.png"
+              width="800"
+              height="800"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-1.png"
+            />
+            <image
+              id="image2_3_29"
+              data-name="planet-2.png"
+              width="801"
+              height="801"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-2.png"
+            />
+            <image
+              id="image3_3_29"
+              data-name="planet-3.png"
+              width="527"
+              height="527"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-3.png"
+            />
+            <image
+              id="image4_3_29"
+              data-name="planet-4.png"
+              width="675"
+              height="675"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-4.png"
+            />
+            <image
+              id="image5_3_29"
+              data-name="planet-5.png"
+              width="583"
+              height="583"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-5.png"
+            />
+            <image
+              id="image6_3_29"
+              data-name="planet-6.png"
+              width="441"
+              height="441"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-6.png"
+            />
+            <image
+              id="image7_3_29"
+              data-name="planet-7.png"
+              width="449"
+              height="255"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-7.png"
+            />
+            <image
+              id="image8_3_29"
+              data-name="planet-8.png"
+              width="800"
+              height="800"
+              xlink:href="http://www.jobsandtuitionsbd.com/wp-content/uploads/2023/08/planet-8.png"
+            />
